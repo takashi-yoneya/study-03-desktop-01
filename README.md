@@ -36,3 +36,9 @@ pipでインストール後に以下コマンドを実行してみよう。
 distフォルダに実行可能フィイルが格納されます。
 顧客提供時は、このファイルを提供することでpythonのインストールは不要になります。
 `python -m eel <はじめに起動するpyファイル> <htmlのフォルダ名> --onefile`
+
+# おまけ
+bootstrapを適用して、キレイな画面を作成してみてください。  
+以下のサイトのスターターテンプレートを適用し、レイアウトを調整してみてください。  
+https://getbootstrap.jp/docs/4.3/getting-started/introduction/
+
